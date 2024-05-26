@@ -1,5 +1,4 @@
 
-Sure, here's a bio for your GitHub profile based on the information provided in your CV:
 
 👋 Hi there! I'm Yasir, a Computer Science student specializing in Artificial Intelligence at Sathyabama Institute of Science and Technology. I'm passionate about leveraging technology to solve real-world problems and exploring the fascinating realms of AI, machine learning, and data science.
 
