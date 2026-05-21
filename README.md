@@ -2,13 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yasir;AI+Engineer;Backend+Developer;Multi-Agent+Architect" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding Workflow" style="border-radius: 8px;" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding Workflow" />
 
 <br>
 <br>
 
 <a href="https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo"  / >
 </a>
 <a href="mailto:yasirsza@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo"  />
@@ -42,14 +42,18 @@ I engineer high-performance backend layers, specializing in deterministic **Mult
 
 ### 🔥 Real-time Dynamic Metrics
 
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
+
+<div align="center">
 
 ---
 
