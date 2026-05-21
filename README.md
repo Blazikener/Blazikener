@@ -23,6 +23,12 @@
 
 ---
 
+### 🖥️ Active Engineering Console
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=500&color=A9B1D6&background=1A1B26&center=false&vCenter=true&width=550&lines=%24+initializing+multi-agent+orchestration...;%24+langgraph+state+graph+initialized+%5BOK%5D;%24+spinning+up+asynchronous+fastapi+workers...;%24+optimizing+vector+database+rag+routing...;%24+status%3A+ready+to+deploy+production+pipelines" alt="Terminal Console" />
+
+---
+
 ### 👩‍💻 Core Architecture Focus
 
 I engineer high-performance backend layers, specializing in deterministic **Multi-Agent workflows (LangGraph)**, <br>distributed system routing, and advanced asynchronous API designs.
@@ -40,15 +46,13 @@ I engineer high-performance backend layers, specializing in deterministic **Mult
 
 ---
 
-### 🔥 Real-time Dynamic Metrics
+### 🔥 Code Consistency Metric
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 <div align="center">
 
