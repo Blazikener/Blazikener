@@ -8,7 +8,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo"  / >
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo"  />
 </a>
 <a href="mailto:yasirsza@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo"  />
@@ -44,14 +44,11 @@ I engineer high-performance backend layers, specializing in deterministic **Mult
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true)
 
 <div align="center">
 
