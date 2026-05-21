@@ -1,43 +1,50 @@
 <div align="center">
 
-# Yasir Ziyaudeen Ahamed
-### **AI Engineer & Backend Developer** 📍 Abu Dhabi, UAE • ✉️ [yasirsza@gmail.com](mailto:yasirsza@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yasir;AI+Engineer;Backend+Developer;Multi-Agent+Architect" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirsza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blazikener)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" alt="Coding Workflow" style="border-radius: 8px;" />
 
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo"  />
+</a>
+<a href="mailto:yasirsza@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo"  />
+</a>
+<a href="https://github.com/Blazikener" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
+</a>
+
+<br>
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Blazikener.Blazikener" alt="visitor badge" />
 
 ---
 
-</div>
+### 👩‍💻 Core Architecture Focus
 
-## 🌐 Executive Summary
-
-Specialized in architecting high-performance backend systems, production-ready **Multi-Agent workflows (LangGraph)**, and robust API infrastructures. Focused on delivering deterministic, enterprise-grade AI automation layers that scale.
-
-* 🚀 **Core Focus:** Distributed System Architecture & Intelligent Agent Coordination.
-* 🧠 **R&D Tracks:** Advanced vector memory routing and secure code-execution sandboxes.
-* ⚡ **Philosophy:** Write clean, asynchronous, highly maintainable code.
+I engineer high-performance backend layers, specializing in deterministic **Multi-Agent workflows (LangGraph)**, <br>distributed system routing, and advanced asynchronous API designs.
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+### 🛠️ Ecosystem
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | `Python (3.10+)` &nbsp;&middot;&nbsp; `C` &nbsp;&middot;&nbsp; `SQL` |
-| **AI Architecture** | `FastAPI` &nbsp;&middot;&nbsp; `LangGraph` &nbsp;&middot;&nbsp; `RAG Pipelines` &nbsp;&middot;&nbsp; `LLM Orchestration` |
-| **Data & Core Infra** | `PostgreSQL` &nbsp;&middot;&nbsp; `Redis (Caching/Memory)` &nbsp;&middot;&nbsp; `Docker` &nbsp;&middot;&nbsp; `Git` |
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
 
 ---
 
-## 🔥 Engineering Metrics & Performance
+### 🔥 Real-time Dynamic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blazikener&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blazikener&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -46,6 +53,6 @@ Specialized in architecting high-performance backend systems, production-ready *
 
 ---
 
-<div align="center">
-  <sub>Built with precision. Powered by asynchronous Python architectures.</sub>
+<sub>System Node: Abu Dhabi, UAE • Optimized for high concurrency</sub>
+
 </div>
