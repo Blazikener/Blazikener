@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Core+Stack%3A+Python++FastAPI++LangGraph;Specialization%3A+Autonomous+Multi-Agent+Systems;Deployment%3A+High-Performance+Asynchronous+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Core+Stack%3A+Python+%7C+FastAPI+%7C+LangGraph;Specialization%3A+Autonomous+Multi-Agent+Systems;Deployment%3A+High-Performance+Asynchronous+Pipelines" alt="Typing SVG" />
 
 <br>
 
