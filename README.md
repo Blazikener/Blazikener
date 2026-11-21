@@ -1,71 +1,62 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=220&section=header&text=YASIR%20ZIYAUDEEN%20AHAMED&subtitle=AI%20Systems%20%26%20Backend%20Architect&fontSize=32&fontColor=7aa2f7&animation=twinkling" width="100%" alt="Header Banner" />
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Core+Stack%3A+Python+%7C+FastAPI+%7C+LangGraph;Specialization%3A+Autonomous+Multi-Agent+Systems;Deployment%3A+High-Performance+Asynchronous+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=44&duration=3500&pause=1800&color=E8643C&center=true&vCenter=true&width=760&height=70&lines=Yasir+Ziyaudeen+Ahamed;AI+engineer%2C+agents+and+evals" alt="Yasir Ziyaudeen Ahamed — AI engineer, agents and evals" />
 
+**AI engineer shipping agents that are checked before they act.** Abu Dhabi, UAE.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1c1a17?style=flat-square)](https://yasirdemo.pythonanywhere.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1a17?style=flat-square)](https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/)
+[![X](https://img.shields.io/badge/@YasirBuildz-1c1a17?style=flat-square)](https://x.com/YasirBuildz)
+[![Email](https://img.shields.io/badge/yasirsza@gmail.com-1c1a17?style=flat-square)](mailto:yasirsza@gmail.com)
+
+</div>
+
+I build AI agents, then build the checks that stop them doing what they shouldn't: grounding against the real page, policy gates before risky actions, and evals that prove the fix. I like sitting with the customer, finding where it hurts and shipping the fix that week.
+
+Open to **AI engineer, forward-deployed and founding roles**. Can start immediately, happy to relocate.
+
+## Now
+
+- **[Marcus Intelligence](https://marcusai.in)**: autonomous QA agent with grounding checks and a Playwright runner. 5,000+ test runs across ~20 web apps.
+- **Before**: AI Developer Intern at Martech AI (production RAG assistant used by 10,000+ university students) and ML Intern at RahaXR (forecasting, R² = 0.96).
+- **4x hackathon winner**, including the Airia hackathon (Abu Dhabi) and the Sathyabama national hackathon; 3rd at Replit x Oriane.
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**marcus-gate**](https://github.com/Blazikener/marcus-gate) | GitHub Action that fails a PR when one tenant can read another tenant's object (OWASP API1), with redacted evidence. | Python, GitHub Actions |
+| [**devin-android**](https://github.com/Blazikener/devin-android) | Unofficial native Android client for Devin: sessions, chat, attachments, notifications with inline reply. | Kotlin, Jetpack Compose |
+| [**unprompted**](https://github.com/Blazikener/unprompted) | Finds creators who already mention your brand on camera, with a receipt for every match (quote, timestamp, frame). Replit x Oriane, 3rd place. | Python, Postgres, vanilla JS |
+| [**resolve-**](https://github.com/Blazikener/resolve-) | Missing-evidence layer for accounts payable: a bounded agent investigates, code decides what is proven, a human decides what is sent. | FastAPI, OpenAI tool calling |
+| [**FurPrint**](https://github.com/Blazikener/FurPrint) | Turns neighbours into a search party for a lost cat, with a search zone from a study of 1,210 missing cats. | TypeScript, Python, H3 |
+| [**AssistVision**](https://github.com/Blazikener/AssistVision) | Research in progress: metric food volume from multi-view images, scored against a kitchen scale. | COLMAP, Python |
+
+## Open source
+
+Contributions to [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) (AI agents driving real Android and iOS apps):
+
+- [Experimental Poco hierarchies for Android games](https://github.com/minitap-ai/mobile-use/pull/231)
+- [Honor resource ID index when searching the UI hierarchy](https://github.com/minitap-ai/mobile-use/pull/230)
+- [Opt-in strict app lock with deterministic foreground checks](https://github.com/minitap-ai/mobile-use/pull/228)
+
+## Tools I reach for
+
+![Python](https://img.shields.io/badge/Python-1c1a17?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1c1a17?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1c1a17?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-1c1a17?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-1c1a17?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1a17?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-1c1a17?style=flat-square)
+![React](https://img.shields.io/badge/React-1c1a17?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-1c1a17?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1a17?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-1c1a17?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-1c1a17?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1c1a17?style=flat-square)
+
+<div align="center">
 <br>
-
-<a href="https://www.linkedin.com/in/yasir-ziyaudeen-ahamed/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="linkedin logo" />
-</a>
-&nbsp;
-<a href="mailto:yasirsza@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="gmail logo" />
-</a>
-&nbsp;
-<a href="https://github.com/Blazikener" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="32" alt="github logo" />
-</a>
-
-<br><br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Blazikener.Blazikener" alt="visitor badge" />
-
----
-
-</div>
-
-## 🌐 Core Architectural Focus
-
-I architect high-throughput backend infrastructure, specializing in deterministic **Multi-Agent workflows (LangGraph)**, stateful memory routing, and event-driven API networks. My goal is to build secure, scalable code-execution environments and robust AI orchestration layers that bridge LLM reasoning with production software engineering.
-
----
-
-## 🛠️ Deep Tech Ecosystem
-
-### 🧠 AI & Orchestration Layers
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-orange?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/langchain-ai/langgraph)
-[![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-7AA2F7?style=for-the-badge&logo=ai&logoColor=white)]()
-
-### 💻 Core Engineering & Database
-[![Python](https://img.shields.io/badge/Python%203.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis%20Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-### 🚀 Infrastructure & DevOps
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git%20VCS-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
----
-
-## 🖥️ Live Architecture Console
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=500&color=A9B1D6&background=1A1B26&center=false&vCenter=true&width=700&lines=%24+systemctl+start+multi-agent-orchestrator;%24+loading+langgraph+state+matrices...+%5BCOMPLETED%5D;%24+binding+asynchronous+fastapi+event+loops+to+workers...;%24+vector+db+handshake%3A+active+indexing+routing+initialized;%24+evaluating+secure+sandbox+code+execution+layers...;%24+status%3A+production+node+online+%5BHOST%3A+ABU_DHABI_UAE%5D" alt="System Console Terminal" width="100%" />
-</div>
-
----
-
-## 🔥 Engineering Velocity Metrics
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Blazikener&locale=en&mode=daily&theme=tokyonight&hide_border=true" width="85%" alt="Streak Stats" />
-  <br><br>
-  <sub>Node Context: Abu Dhabi, UAE • Engine Optimized for Concurrency & Scale</sub>
+<sub>B.E. Computer Science (AI), Sathyabama Institute, class of 2027</sub>
 </div>
