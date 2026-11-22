@@ -135,7 +135,7 @@ class Svg:
             + "".join(self.body)
             + "</svg>"
         )
-        (ASSETS / name).write_text(svg)
+        (ASSETS / name).write_text(svg, encoding="utf-8")
         print(f"{name}: {len(svg) // 1024} KB")
 
 
