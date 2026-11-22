@@ -12,13 +12,11 @@ AI engineer in Abu Dhabi. I build LLM agents and the controls around them: groun
 
 ### Selected repositories
 
-| | |
-| --- | --- |
-| [**marcus-gate**](https://github.com/Blazikener/marcus-gate) | GitHub Action that fails a PR when one tenant can read another tenant's data (OWASP API1). Read-only probes, redacted evidence, and a JSON handoff a coding agent can act on. |
-| [**resolve-**](https://github.com/Blazikener/resolve-) | Agent for accounts-payable exceptions. Bounded tool budget, allow-listed tools, a red-team planner that plays a compromised model, and a 40-case eval with precision and recall per exception type. |
-| [**unprompted**](https://github.com/Blazikener/unprompted) | Finds creators who already mention a brand on camera, with the quote, timestamp and frame as proof. English and Arabic matching, checked against hand-labelled videos. 3rd at Replit x Oriane. |
-| [**devin-android**](https://github.com/Blazikener/devin-android) | Native Android client for Devin (unofficial) in Kotlin and Jetpack Compose: sessions, chat, attachments and notifications with inline reply. |
-| [**FurPrint**](https://github.com/Blazikener/FurPrint) | Lost-cat search coordination with search zones based on a study of 1,210 missing cats, plus EXIF stripping, rate limits and data retention. |
+- [**marcus-gate**](https://github.com/Blazikener/marcus-gate): GitHub Action that fails a PR when one tenant can read another tenant's data (OWASP API1). Read-only probes, redacted evidence, and a JSON handoff a coding agent can act on.
+- [**resolve-**](https://github.com/Blazikener/resolve-): Agent for accounts-payable exceptions. Bounded tool budget, allow-listed tools, a red-team planner that plays a compromised model, and a 40-case eval with precision and recall per exception type.
+- [**unprompted**](https://github.com/Blazikener/unprompted): Finds creators who already mention a brand on camera, with the quote, timestamp and frame as proof. English and Arabic matching, checked against hand-labelled videos. 3rd at Replit x Oriane.
+- [**devin-android**](https://github.com/Blazikener/devin-android): Native Android client for Devin (unofficial) in Kotlin and Jetpack Compose: sessions, chat, attachments and notifications with inline reply.
+- [**FurPrint**](https://github.com/Blazikener/FurPrint): Lost-cat search coordination with search zones based on a study of 1,210 missing cats, plus EXIF stripping, rate limits and data retention.
 
 ### How I work
 
